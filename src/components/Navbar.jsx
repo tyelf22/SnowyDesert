@@ -29,7 +29,7 @@ export const Navbar = () => {
         >
           <a href="/#home" aria-label="Home">
             <div className="flex justify-start items-center grow basis-0">
-                <img src={snowydesertlogo.src} alt="Snowy Desert Logo" width="40" height="40" /> 
+                <img src={snowydesertlogo.src} alt="Snowy Desert Logo" width="30" height="30" /> 
               <div className="text-white font-['Inter'] font-bold text-xl ml-4">
                 Snowy Desert
               </div>
